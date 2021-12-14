@@ -3,3 +3,6 @@ welcome to time kitchen
 tea
 coffee
 
+idle
+dosa
+
